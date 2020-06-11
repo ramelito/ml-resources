@@ -14,6 +14,8 @@
 * [Kaggle Datasets](https://www.kaggle.com/datasets)
 * [One-Hot Encoding a Feature on a Pandas Dataframe: Examples](https://queirozf.com/entries/one-hot-encoding-a-feature-on-a-pandas-dataframe-an-example)
 * [Choosing the right estimator](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
+* [Anomaly Detection with Time Series Forecasting](https://towardsdatascience.com/anomaly-detection-with-time-series-forecasting-c34c6d04b24a)
+* [Anomaly Detection with Isolation Forest & Visualization](https://towardsdatascience.com/anomaly-detection-with-isolation-forest-visualization-23cd75c281e2)
 
 # Text
 * [NLP Library](https://spacy.io/usage)
