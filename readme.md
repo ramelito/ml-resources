@@ -7,6 +7,8 @@
 * [A Gentle Introduction to LSTM Autoencoders](https://machinelearningmastery.com/lstm-autoencoders/)
 * [Time Series Anomaly Detection with LSTM Autoencoders using Keras in Python](https://www.curiousily.com/posts/anomaly-detection-in-time-series-with-lstms-using-keras-in-python/)
 * [Keras API reference / Utilities](https://keras.io/api/utils/)
+* [A Keras-Based Autoencoder for Anomaly Detection in Sequences](https://towardsdatascience.com/a-keras-based-autoencoder-for-anomaly-detection-in-sequences-75337eaed0e5)
+* [Timeseries anomaly detection using an Autoencoder](https://keras.io/examples/timeseries/timeseries_anomaly_detection/)
 
 # ML
 * [Anomaly Detection of Time Series Data](https://medium.com/@jetnew/anomaly-detection-of-time-series-data-e0cb6b382e33)
@@ -16,6 +18,10 @@
 * [Choosing the right estimator](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
 * [Anomaly Detection with Time Series Forecasting](https://towardsdatascience.com/anomaly-detection-with-time-series-forecasting-c34c6d04b24a)
 * [Anomaly Detection with Isolation Forest & Visualization](https://towardsdatascience.com/anomaly-detection-with-isolation-forest-visualization-23cd75c281e2)
+* [Unsupervised Machine Learning Approaches for Outlier Detection in Time Series](https://techrando.com/2019/08/23/unsupervised-machine-learning-approaches-for-outlier-detection-in-time-series/)
+* [Novelty and Outlier Detection](https://scikit-learn.org/stable/modules/outlier_detection.html)
+* [Anomaly Detection with Time Series Forecasting](https://www.kaggle.com/adithya44/anomaly-detection-with-time-series-forecasting)
+
 
 # Text
 * [NLP Library](https://spacy.io/usage)
