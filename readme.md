@@ -22,6 +22,7 @@
 * [How to Make Out-of-Sample Forecasts with ARIMA in Python](https://machinelearningmastery.com/make-sample-forecasts-arima-python/)
 * [The Hyperparameter Cheat Sheet](https://medium.com/swlh/the-hyperparameter-cheat-sheet-770f1fed32ff)
 * [Introduction to Forecasting in Python](https://medium.com/analytics-vidhya/time-series-forecasting-in-python-c079419518ad)
+* [How to Choose a Feature Selection Method For Machine Learning](https://machinelearningmastery.com/feature-selection-with-real-and-categorical-data/)
 
 # OCR topics
 * [Build a Line-By-Line Receipt Parser Using Google Vision and the Google Sheets API](https://medium.com/better-programming/google-vision-and-google-sheets-api-line-by-line-receipt-parsing-2e2661261cda)
@@ -56,14 +57,17 @@
 * [How to Generate FiveThirtyEight Graphs in Python](https://www.dataquest.io/blog/making-538-plots/)
 * [Formatting Tips for Correlation Heatmaps in Seaborn](https://towardsdatascience.com/formatting-tips-for-correlation-heatmaps-in-seaborn-4478ef15d87f)
 * [Beautiful and Easy Plotting in Python — Pandas + Bokeh](https://towardsdatascience.com/beautiful-and-easy-plotting-in-python-pandas-bokeh-afa92d792167)
+* [Powerful EDA (Exploratory Data Analysis) in just two lines of code using Sweetviz](https://towardsdatascience.com/powerful-eda-exploratory-data-analysis-in-just-two-lines-of-code-using-sweetviz-6c943d32f34)
 
 # Pandas tricks
 * [Mapping with Python’s GeoPandas](https://medium.com/python-in-plain-english/mapping-with-pythons-geopandas-2869bb758b08)
 * [How to process a DataFrame with billions of rows in seconds](https://towardsdatascience.com/how-to-process-a-dataframe-with-billions-of-rows-in-seconds-c8212580f447)
 * [One-Hot Encoding a Feature on a Pandas Dataframe: Examples](https://queirozf.com/entries/one-hot-encoding-a-feature-on-a-pandas-dataframe-an-example)
+* [Exploratory Data Analysis with Pandas Profiling](https://towardsdatascience.com/exploratory-data-analysis-with-pandas-profiling-de3aae2ddff3)
 
 # Python tricks and libraries
 * [How To Replace Your Python For Loops with Map, Filter, and Reduce](https://medium.com/better-programming/how-to-replace-your-python-for-loops-with-map-filter-and-reduce-c1b5fa96f43a)
 * [Python REST APIs With Flask, Connexion, and SQLAlchemy](https://realpython.com/flask-connexion-rest-api/)
 * [Reading and Writing JSON to a File in Python](https://stackabuse.com/reading-and-writing-json-to-a-file-in-python/)
 * [Connexion](https://connexion.readthedocs.io/en/latest/quickstart.html)
+* [Some neat Jupyter tricks](https://medium.com/swlh/some-neat-jupyter-tricks-be0775c3f17)
