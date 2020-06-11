@@ -64,6 +64,7 @@
 * [How to process a DataFrame with billions of rows in seconds](https://towardsdatascience.com/how-to-process-a-dataframe-with-billions-of-rows-in-seconds-c8212580f447)
 * [One-Hot Encoding a Feature on a Pandas Dataframe: Examples](https://queirozf.com/entries/one-hot-encoding-a-feature-on-a-pandas-dataframe-an-example)
 * [Exploratory Data Analysis with Pandas Profiling](https://towardsdatascience.com/exploratory-data-analysis-with-pandas-profiling-de3aae2ddff3)
+* [Pandas Sidetable Just Announced](https://towardsdatascience.com/pandas-sidetable-just-announced-708e5f65938f)
 
 # Python tricks and libraries
 * [How To Replace Your Python For Loops with Map, Filter, and Reduce](https://medium.com/better-programming/how-to-replace-your-python-for-loops-with-map-filter-and-reduce-c1b5fa96f43a)
