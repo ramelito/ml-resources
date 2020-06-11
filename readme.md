@@ -20,6 +20,8 @@
 * [Choosing the right estimator](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
 * [Handling Missing Data for Advanced Machine Learning](https://medium.com/towards-artificial-intelligence/handling-missing-data-for-advanced-machine-learning-b6eb89050357)
 * [How to Make Out-of-Sample Forecasts with ARIMA in Python](https://machinelearningmastery.com/make-sample-forecasts-arima-python/)
+* [The Hyperparameter Cheat Sheet](https://medium.com/swlh/the-hyperparameter-cheat-sheet-770f1fed32ff)
+* [Introduction to Forecasting in Python](https://medium.com/analytics-vidhya/time-series-forecasting-in-python-c079419518ad)
 
 # OCR topics
 * [Build a Line-By-Line Receipt Parser Using Google Vision and the Google Sheets API](https://medium.com/better-programming/google-vision-and-google-sheets-api-line-by-line-receipt-parsing-2e2661261cda)
@@ -53,6 +55,7 @@
 * [The Next Level of Data Visualization in Python](https://towardsdatascience.com/the-next-level-of-data-visualization-in-python-dd6e99039d5e)
 * [How to Generate FiveThirtyEight Graphs in Python](https://www.dataquest.io/blog/making-538-plots/)
 * [Formatting Tips for Correlation Heatmaps in Seaborn](https://towardsdatascience.com/formatting-tips-for-correlation-heatmaps-in-seaborn-4478ef15d87f)
+* [Beautiful and Easy Plotting in Python — Pandas + Bokeh](https://towardsdatascience.com/beautiful-and-easy-plotting-in-python-pandas-bokeh-afa92d792167)
 
 # Pandas tricks
 * [Mapping with Python’s GeoPandas](https://medium.com/python-in-plain-english/mapping-with-pythons-geopandas-2869bb758b08)
