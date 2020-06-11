@@ -21,6 +21,7 @@
 * [Unsupervised Machine Learning Approaches for Outlier Detection in Time Series](https://techrando.com/2019/08/23/unsupervised-machine-learning-approaches-for-outlier-detection-in-time-series/)
 * [Novelty and Outlier Detection](https://scikit-learn.org/stable/modules/outlier_detection.html)
 * [Anomaly Detection with Time Series Forecasting](https://www.kaggle.com/adithya44/anomaly-detection-with-time-series-forecasting)
+* [Time Series of Price Anomaly Detection](https://towardsdatascience.com/time-series-of-price-anomaly-detection-13586cd5ff46)
 
 
 # Text
