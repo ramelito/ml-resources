@@ -72,3 +72,4 @@
 * [Reading and Writing JSON to a File in Python](https://stackabuse.com/reading-and-writing-json-to-a-file-in-python/)
 * [Connexion](https://connexion.readthedocs.io/en/latest/quickstart.html)
 * [Some neat Jupyter tricks](https://medium.com/swlh/some-neat-jupyter-tricks-be0775c3f17)
+* [Elevate Your Jupyter Notebook Environment Experience](https://towardsdatascience.com/elevate-your-jupyter-notebook-environment-experience-9bdd1101aa54)
