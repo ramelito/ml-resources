@@ -75,3 +75,4 @@
 * [Connexion](https://connexion.readthedocs.io/en/latest/quickstart.html)
 * [Some neat Jupyter tricks](https://medium.com/swlh/some-neat-jupyter-tricks-be0775c3f17)
 * [Elevate Your Jupyter Notebook Environment Experience](https://towardsdatascience.com/elevate-your-jupyter-notebook-environment-experience-9bdd1101aa54)
+* [7 Commands in Python to Make Your Life Easier](https://medium.com/better-programming/7-commands-in-python-to-make-your-life-easier-d48dd0992b57)
