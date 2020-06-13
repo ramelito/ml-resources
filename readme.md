@@ -58,6 +58,7 @@
 * [Formatting Tips for Correlation Heatmaps in Seaborn](https://towardsdatascience.com/formatting-tips-for-correlation-heatmaps-in-seaborn-4478ef15d87f)
 * [Beautiful and Easy Plotting in Python — Pandas + Bokeh](https://towardsdatascience.com/beautiful-and-easy-plotting-in-python-pandas-bokeh-afa92d792167)
 * [Powerful EDA (Exploratory Data Analysis) in just two lines of code using Sweetviz](https://towardsdatascience.com/powerful-eda-exploratory-data-analysis-in-just-two-lines-of-code-using-sweetviz-6c943d32f34)
+* [Exploratory Data Analysis: Dataprep.eda vs Pandas-Profiling](https://towardsdatascience.com/exploratory-data-analysis-dataprep-eda-vs-pandas-profiling-7137683fe47f)
 
 # Pandas tricks
 * [Mapping with Python’s GeoPandas](https://medium.com/python-in-plain-english/mapping-with-pythons-geopandas-2869bb758b08)
