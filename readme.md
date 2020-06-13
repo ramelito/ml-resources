@@ -17,6 +17,7 @@
 
 # ML topics
 * [Kaggle Datasets](https://www.kaggle.com/datasets)
+* [Shogun - open-source machine learning library](https://www.shogun-toolbox.org/)
 * [Choosing the right estimator](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
 * [Handling Missing Data for Advanced Machine Learning](https://medium.com/towards-artificial-intelligence/handling-missing-data-for-advanced-machine-learning-b6eb89050357)
 * [How to Make Out-of-Sample Forecasts with ARIMA in Python](https://machinelearningmastery.com/make-sample-forecasts-arima-python/)
@@ -25,6 +26,7 @@
 * [How to Choose a Feature Selection Method For Machine Learning](https://machinelearningmastery.com/feature-selection-with-real-and-categorical-data/)
 
 # OCR topics
+* [Open Source Computer Vision Library](https://opencv.org/about/)
 * [Build a Line-By-Line Receipt Parser Using Google Vision and the Google Sheets API](https://medium.com/better-programming/google-vision-and-google-sheets-api-line-by-line-receipt-parsing-2e2661261cda)
 * [Automating Receipt Digitization with OCR and Deep Learning](https://nanonets.com/blog/receipt-ocr/#receipt-digitization-using-tesseract)
 * [Build your own Optical Character Recognition (OCR) System using Google’s Tesseract and OpenCV](https://www.analyticsvidhya.com/blog/2020/05/build-your-own-ocr-google-tesseract-opencv/)
