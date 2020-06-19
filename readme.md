@@ -62,6 +62,7 @@
 * [Powerful EDA (Exploratory Data Analysis) in just two lines of code using Sweetviz](https://towardsdatascience.com/powerful-eda-exploratory-data-analysis-in-just-two-lines-of-code-using-sweetviz-6c943d32f34)
 * [Exploratory Data Analysis: Dataprep.eda vs Pandas-Profiling](https://towardsdatascience.com/exploratory-data-analysis-dataprep-eda-vs-pandas-profiling-7137683fe47f)
 * [An introduction to exploratory data analysis with dataprep.eda](https://sfu-db.github.io/dataprep/eda/introduction.html)
+* [Beyond “tidy”: Plotly Express now accepts wide-form and mixed-form data](https://medium.com/plotly/beyond-tidy-plotly-express-now-accepts-wide-form-and-mixed-form-data-bdc3e054f891)
 
 # Pandas tricks
 * [Mapping with Python’s GeoPandas](https://medium.com/python-in-plain-english/mapping-with-pythons-geopandas-2869bb758b08)
