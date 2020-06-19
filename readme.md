@@ -79,3 +79,4 @@
 * [Some neat Jupyter tricks](https://medium.com/swlh/some-neat-jupyter-tricks-be0775c3f17)
 * [Elevate Your Jupyter Notebook Environment Experience](https://towardsdatascience.com/elevate-your-jupyter-notebook-environment-experience-9bdd1101aa54)
 * [7 Commands in Python to Make Your Life Easier](https://medium.com/better-programming/7-commands-in-python-to-make-your-life-easier-d48dd0992b57)
+* [Advanced Python: Itertools Library — The Gem Of Python Language](https://medium.com/fintechexplained/advanced-python-itertools-library-the-gem-of-python-language-99da37dfcca2)
