@@ -70,6 +70,7 @@
 * [Exploratory Data Analysis with Pandas Profiling](https://towardsdatascience.com/exploratory-data-analysis-with-pandas-profiling-de3aae2ddff3)
 * [Pandas Sidetable Just Announced](https://towardsdatascience.com/pandas-sidetable-just-announced-708e5f65938f)
 * [Reading Data with Python’s Pandas](https://medium.com/python-in-plain-english/reading-data-with-pythons-pandas-2715ff925b1d)
+* [Top 3 Pandas Functions I Wish I Knew Earlier](https://towardsdatascience.com/top-3-pandas-functions-i-wish-i-knew-earlier-6711030bf48a)
 
 # Python tricks and libraries
 * [How To Replace Your Python For Loops with Map, Filter, and Reduce](https://medium.com/better-programming/how-to-replace-your-python-for-loops-with-map-filter-and-reduce-c1b5fa96f43a)
