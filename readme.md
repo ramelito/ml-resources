@@ -25,6 +25,7 @@
 * [Introduction to Forecasting in Python](https://medium.com/analytics-vidhya/time-series-forecasting-in-python-c079419518ad)
 * [How to Choose a Feature Selection Method For Machine Learning](https://machinelearningmastery.com/feature-selection-with-real-and-categorical-data/)
 * [Which machine learning algorithm should I use?](https://blogs.sas.com/content/subconsciousmusings/2017/04/12/machine-learning-algorithm-use/)
+* [Snorkel.org :: Programmatically Building and Managing Training Data with Snorkel](https://www.snorkel.org/use-cases/)
 
 # OCR topics
 * [Open Source Computer Vision Library](https://opencv.org/about/)
