@@ -26,6 +26,7 @@
 * [How to Choose a Feature Selection Method For Machine Learning](https://machinelearningmastery.com/feature-selection-with-real-and-categorical-data/)
 * [Which machine learning algorithm should I use?](https://blogs.sas.com/content/subconsciousmusings/2017/04/12/machine-learning-algorithm-use/)
 * [Snorkel.org :: Programmatically Building and Managing Training Data with Snorkel](https://www.snorkel.org/use-cases/)
+* [Gradio: Input and output interfaces over trained models](https://github.com/gradio-app/gradio)
 
 # OCR topics
 * [Open Source Computer Vision Library](https://opencv.org/about/)
