@@ -77,6 +77,8 @@
 * [Reading Data with Python’s Pandas](https://medium.com/python-in-plain-english/reading-data-with-pythons-pandas-2715ff925b1d)
 * [Top 3 Pandas Functions I Wish I Knew Earlier](https://towardsdatascience.com/top-3-pandas-functions-i-wish-i-knew-earlier-6711030bf48a)
 * [GroupBy in Pandas: Your Guide to Summarizing and Aggregating Data in Python](https://medium.com/analytics-vidhya/groupby-in-pandas-your-guide-to-summarizing-and-aggregating-data-in-python-4b702405c440)
+* [Reshape pandas dataframe with melt in Python — tutorial and visualization](https://towardsdatascience.com/reshape-pandas-dataframe-with-melt-in-python-tutorial-and-visualization-29ec1450bb02)
+* [Reshape pandas dataframe with pivot_table in Python — tutorial and visualization](https://towardsdatascience.com/reshape-pandas-dataframe-with-pivot-table-in-python-tutorial-and-visualization-2248c2012a31)
 
 # Python tricks and libraries
 * [How To Replace Your Python For Loops with Map, Filter, and Reduce](https://medium.com/better-programming/how-to-replace-your-python-for-loops-with-map-filter-and-reduce-c1b5fa96f43a)
@@ -87,3 +89,4 @@
 * [Elevate Your Jupyter Notebook Environment Experience](https://towardsdatascience.com/elevate-your-jupyter-notebook-environment-experience-9bdd1101aa54)
 * [7 Commands in Python to Make Your Life Easier](https://medium.com/better-programming/7-commands-in-python-to-make-your-life-easier-d48dd0992b57)
 * [Advanced Python: Itertools Library — The Gem Of Python Language](https://medium.com/fintechexplained/advanced-python-itertools-library-the-gem-of-python-language-99da37dfcca2)
+* [30 Magical Python Tricks to Write Better Code](https://towardsdatascience.com/30-magical-python-tricks-to-write-better-code-e54d1642c255)
