@@ -27,6 +27,7 @@
 * [Which machine learning algorithm should I use?](https://blogs.sas.com/content/subconsciousmusings/2017/04/12/machine-learning-algorithm-use/)
 * [Snorkel.org :: Programmatically Building and Managing Training Data with Snorkel](https://www.snorkel.org/use-cases/)
 * [Gradio: Input and output interfaces over trained models](https://github.com/gradio-app/gradio)
+* [4 Tips for Advanced Feature Engineering and Preprocessing](https://towardsdatascience.com/4-tips-for-advanced-feature-engineering-and-preprocessing-ec11575c09ea)
 
 # OCR topics
 * [Open Source Computer Vision Library](https://opencv.org/about/)
