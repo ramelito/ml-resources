@@ -28,6 +28,7 @@
 * [Snorkel.org :: Programmatically Building and Managing Training Data with Snorkel](https://www.snorkel.org/use-cases/)
 * [Gradio: Input and output interfaces over trained models](https://github.com/gradio-app/gradio)
 * [4 Tips for Advanced Feature Engineering and Preprocessing](https://towardsdatascience.com/4-tips-for-advanced-feature-engineering-and-preprocessing-ec11575c09ea)
+* [Machine Learning with dabl](https://amueller.github.io/dabl/dev/quick_start.html)
 
 # OCR topics
 * [Open Source Computer Vision Library](https://opencv.org/about/)
