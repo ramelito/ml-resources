@@ -82,6 +82,7 @@
 * [Reshape pandas dataframe with pivot_table in Python — tutorial and visualization](https://towardsdatascience.com/reshape-pandas-dataframe-with-pivot-table-in-python-tutorial-and-visualization-2248c2012a31)
 * [pivottable-js: drag’n’drop functionality for pandas inside jupyter notebook](https://github.com/nicolaskruchten/pivottable)
 * [janitor: A lot of cool functions to clean data](https://pyjanitor.readthedocs.io/notebooks.html)
+* [Filtering Data in Pandas](https://levelup.gitconnected.com/filtering-data-in-pandas-c7b60d1e1301)
 
 # Python tricks and libraries
 * [How To Replace Your Python For Loops with Map, Filter, and Reduce](https://medium.com/better-programming/how-to-replace-your-python-for-loops-with-map-filter-and-reduce-c1b5fa96f43a)
