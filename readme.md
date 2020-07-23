@@ -29,6 +29,7 @@
 * [Gradio: Input and output interfaces over trained models](https://github.com/gradio-app/gradio)
 * [4 Tips for Advanced Feature Engineering and Preprocessing](https://towardsdatascience.com/4-tips-for-advanced-feature-engineering-and-preprocessing-ec11575c09ea)
 * [Machine Learning with dabl](https://amueller.github.io/dabl/dev/quick_start.html)
+* [What Are Imputers In Data Science?](https://medium.com/fintechexplained/what-are-imputers-in-data-science-b72f8308322b)
 
 # OCR topics
 * [Open Source Computer Vision Library](https://opencv.org/about/)
@@ -83,6 +84,7 @@
 * [pivottable-js: drag’n’drop functionality for pandas inside jupyter notebook](https://github.com/nicolaskruchten/pivottable)
 * [janitor: A lot of cool functions to clean data](https://pyjanitor.readthedocs.io/notebooks.html)
 * [Filtering Data in Pandas](https://levelup.gitconnected.com/filtering-data-in-pandas-c7b60d1e1301)
+* [A guide to DataFrame manipulation using groupby, melt, pivot tables, pivot, transpose, and stack.](https://hackingandslacking.com/reshaping-pandas-dataframes-6aceb55c8c27)
 
 # Python tricks and libraries
 * [How To Replace Your Python For Loops with Map, Filter, and Reduce](https://medium.com/better-programming/how-to-replace-your-python-for-loops-with-map-filter-and-reduce-c1b5fa96f43a)
