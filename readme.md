@@ -30,6 +30,9 @@
 * [4 Tips for Advanced Feature Engineering and Preprocessing](https://towardsdatascience.com/4-tips-for-advanced-feature-engineering-and-preprocessing-ec11575c09ea)
 * [Machine Learning with dabl](https://amueller.github.io/dabl/dev/quick_start.html)
 * [What Are Imputers In Data Science?](https://medium.com/fintechexplained/what-are-imputers-in-data-science-b72f8308322b)
+* [Cross-Validation the Right Way]https://medium.com/machine-learning-eli5/cross-validation-the-right-way-386839ed39b1
+* [Understanding Random Forest]https://towardsdatascience.com/understanding-random-forest-58381e0602d2
+* [Normalization and Standardization in 2 Minutes]https://towardsdatascience.com/normalization-and-standardization-in-2-minutes-e0609a01e76 
 
 # OCR topics
 * [Open Source Computer Vision Library](https://opencv.org/about/)
@@ -85,6 +88,7 @@
 * [janitor: A lot of cool functions to clean data](https://pyjanitor.readthedocs.io/notebooks.html)
 * [Filtering Data in Pandas](https://levelup.gitconnected.com/filtering-data-in-pandas-c7b60d1e1301)
 * [A guide to DataFrame manipulation using groupby, melt, pivot tables, pivot, transpose, and stack.](https://hackingandslacking.com/reshaping-pandas-dataframes-6aceb55c8c27)
+* [Pandas and Multiprocessing: How to create dataframes in a parallel way](https://medium.com/python-in-plain-english/pandas-and-multiprocessing-how-to-create-dataframes-in-a-parallel-way-72f9b18ea72f)
 
 # Python tricks and libraries
 * [How To Replace Your Python For Loops with Map, Filter, and Reduce](https://medium.com/better-programming/how-to-replace-your-python-for-loops-with-map-filter-and-reduce-c1b5fa96f43a)
@@ -96,3 +100,4 @@
 * [7 Commands in Python to Make Your Life Easier](https://medium.com/better-programming/7-commands-in-python-to-make-your-life-easier-d48dd0992b57)
 * [Advanced Python: Itertools Library — The Gem Of Python Language](https://medium.com/fintechexplained/advanced-python-itertools-library-the-gem-of-python-language-99da37dfcca2)
 * [30 Magical Python Tricks to Write Better Code](https://towardsdatascience.com/30-magical-python-tricks-to-write-better-code-e54d1642c255)
+* [Handling exceptions in Python a cleaner way, using Decorators]https://medium.com/swlh/handling-exceptions-in-python-a-cleaner-way-using-decorators-fae22aa0abec
