@@ -10,6 +10,7 @@
 * [Time Series Anomaly Detection with LSTM Autoencoders using Keras in Python](https://www.curiousily.com/posts/anomaly-detection-in-time-series-with-lstms-using-keras-in-python/)
 * [A Keras-Based Autoencoder for Anomaly Detection in Sequences](https://towardsdatascience.com/a-keras-based-autoencoder-for-anomaly-detection-in-sequences-75337eaed0e5)
 * [Timeseries anomaly detection using an Autoencoder](https://keras.io/examples/timeseries/timeseries_anomaly_detection/)
+* [Step-by-step understanding LSTM Autoencoder layers](https://towardsdatascience.com/step-by-step-understanding-lstm-autoencoder-layers-ffab055b6352)
 
 # AI topics
 * [Keras API reference / Utilities](https://keras.io/api/utils/)
