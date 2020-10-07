@@ -14,6 +14,7 @@
 # AI topics
 * [Keras API reference / Utilities](https://keras.io/api/utils/)
 * [A Gentle Introduction to LSTM Autoencoders](https://machinelearningmastery.com/lstm-autoencoders/)
+* [Get Started with Using CNN+LSTM for Forecasting](https://towardsdatascience.com/get-started-with-using-cnn-lstm-for-forecasting-6f0f4dde5826)
 
 # ML topics
 * [Kaggle Datasets](https://www.kaggle.com/datasets)
@@ -30,9 +31,11 @@
 * [4 Tips for Advanced Feature Engineering and Preprocessing](https://towardsdatascience.com/4-tips-for-advanced-feature-engineering-and-preprocessing-ec11575c09ea)
 * [Machine Learning with dabl](https://amueller.github.io/dabl/dev/quick_start.html)
 * [What Are Imputers In Data Science?](https://medium.com/fintechexplained/what-are-imputers-in-data-science-b72f8308322b)
-* [Cross-Validation the Right Way]https://medium.com/machine-learning-eli5/cross-validation-the-right-way-386839ed39b1
-* [Understanding Random Forest]https://towardsdatascience.com/understanding-random-forest-58381e0602d2
-* [Normalization and Standardization in 2 Minutes]https://towardsdatascience.com/normalization-and-standardization-in-2-minutes-e0609a01e76 
+* [Cross-Validation the Right Way](https://medium.com/machine-learning-eli5/cross-validation-the-right-way-386839ed39b1)
+* [Understanding Random Forest](https://towardsdatascience.com/understanding-random-forest-58381e0602d2)
+* [Normalization and Standardization in 2 Minutes](https://towardsdatascience.com/normalization-and-standardization-in-2-minutes-e0609a01e76)
+* [How To Prepare Your Data for Your Machine Learning Model](https://towardsdatascience.com/how-to-prepare-your-data-for-your-machine-learning-model-b4c9fd4e7ea)
+* [Feature Scaling — Effect Of Different Scikit-Learn Scalers: Deep Dive](https://towardsdatascience.com/feature-scaling-effect-of-different-scikit-learn-scalers-deep-dive-8dec775d4946)
 
 # OCR topics
 * [Open Source Computer Vision Library](https://opencv.org/about/)
