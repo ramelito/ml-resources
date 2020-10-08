@@ -94,6 +94,7 @@
 * [Filtering Data in Pandas](https://levelup.gitconnected.com/filtering-data-in-pandas-c7b60d1e1301)
 * [A guide to DataFrame manipulation using groupby, melt, pivot tables, pivot, transpose, and stack.](https://hackingandslacking.com/reshaping-pandas-dataframes-6aceb55c8c27)
 * [Pandas and Multiprocessing: How to create dataframes in a parallel way](https://medium.com/python-in-plain-english/pandas-and-multiprocessing-how-to-create-dataframes-in-a-parallel-way-72f9b18ea72f)
+* [From Pandas-wan to Pandas-master](https://medium.com/unit8-machine-learning-publication/from-pandas-wan-to-pandas-master-4860cf0ce442)
 
 # Python tricks and libraries
 * [How To Replace Your Python For Loops with Map, Filter, and Reduce](https://medium.com/better-programming/how-to-replace-your-python-for-loops-with-map-filter-and-reduce-c1b5fa96f43a)
