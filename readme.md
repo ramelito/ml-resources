@@ -77,6 +77,7 @@
 * [Exploratory Data Analysis: Dataprep.eda vs Pandas-Profiling](https://towardsdatascience.com/exploratory-data-analysis-dataprep-eda-vs-pandas-profiling-7137683fe47f)
 * [An introduction to exploratory data analysis with dataprep.eda](https://sfu-db.github.io/dataprep/eda/introduction.html)
 * [Beyond “tidy”: Plotly Express now accepts wide-form and mixed-form data](https://medium.com/plotly/beyond-tidy-plotly-express-now-accepts-wide-form-and-mixed-form-data-bdc3e054f891)
+* [Speed up your Data Cleaning and Preprocessing with klib](https://towardsdatascience.com/speed-up-your-data-cleaning-and-preprocessing-with-klib-97191d320f80)
 
 # Pandas tricks
 * [Mapping with Python’s GeoPandas](https://medium.com/python-in-plain-english/mapping-with-pythons-geopandas-2869bb758b08)
