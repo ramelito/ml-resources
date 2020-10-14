@@ -38,6 +38,8 @@
 * [How To Prepare Your Data for Your Machine Learning Model](https://towardsdatascience.com/how-to-prepare-your-data-for-your-machine-learning-model-b4c9fd4e7ea)
 * [Feature Scaling — Effect Of Different Scikit-Learn Scalers: Deep Dive](https://towardsdatascience.com/feature-scaling-effect-of-different-scikit-learn-scalers-deep-dive-8dec775d4946)
 * [ROCKET: Fast and Accurate Time Series Classification](https://medium.com/towards-artificial-intelligence/rocket-fast-and-accurate-time-series-classification-f54923ad0ac9)
+* [SHAP (SHapley Additive exPlanations) is a game theoretic approach to explain the output of any machine learning model.](https://shap.readthedocs.io/en/latest/index.html)
+* [ELI5 is a Python library which allows to visualize and debug various Machine Learning models using unified API.](https://eli5.readthedocs.io/en/latest/index.html)
 
 # OCR topics
 * [Open Source Computer Vision Library](https://opencv.org/about/)
@@ -109,3 +111,4 @@
 * [30 Magical Python Tricks to Write Better Code](https://towardsdatascience.com/30-magical-python-tricks-to-write-better-code-e54d1642c255)
 * [Handling exceptions in Python a cleaner way, using Decorators](https://medium.com/swlh/handling-exceptions-in-python-a-cleaner-way-using-decorators-fae22aa0abec)
 * [An Introduction to Asynchronous Programming in Python](https://medium.com/@KonopkaKodes/an-introduction-to-asynchronous-programming-in-python-6809a4385f69)
+* [Python language bindings for Selenium WebDriver.](https://www.selenium.dev/selenium/docs/api/py/index.html)
