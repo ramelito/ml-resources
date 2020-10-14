@@ -58,6 +58,7 @@
 * [Word Embeddings and Document Vectors — When in Doubt, Simplify](https://towardsdatascience.com/word-embeddings-and-document-vectors-when-in-doubt-simplify-8c9aaeec244e)
 * [GloVe: Global Vectors for Word Representation](https://nlp.stanford.edu/projects/glove/)
 * [rusvectores.org](https://rusvectores.org/en/models/)
+* [State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.](https://huggingface.co/transformers/index.html)
 
 # Data Science topics
 * [Five Cool Python Libraries for Data Science](https://medium.com/towards-artificial-intelligence/five-cool-python-libraries-for-data-science-7f1fce402b90)
