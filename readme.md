@@ -40,6 +40,9 @@
 * [ROCKET: Fast and Accurate Time Series Classification](https://medium.com/towards-artificial-intelligence/rocket-fast-and-accurate-time-series-classification-f54923ad0ac9)
 * [SHAP (SHapley Additive exPlanations) is a game theoretic approach to explain the output of any machine learning model.](https://shap.readthedocs.io/en/latest/index.html)
 * [ELI5 is a Python library which allows to visualize and debug various Machine Learning models using unified API.](https://eli5.readthedocs.io/en/latest/index.html)
+* [AutoML topics](https://www.automl.org/automl/auto-sklearn/)
+* [TPOT is a Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming.](http://epistasislab.github.io/tpot/)
+* [Featuretools is a framework to perform automated feature engineering.](https://featuretools.alteryx.com/en/stable/index.html)
 
 # OCR topics
 * [Open Source Computer Vision Library](https://opencv.org/about/)
