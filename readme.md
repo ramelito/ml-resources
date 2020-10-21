@@ -116,3 +116,4 @@
 * [Handling exceptions in Python a cleaner way, using Decorators](https://medium.com/swlh/handling-exceptions-in-python-a-cleaner-way-using-decorators-fae22aa0abec)
 * [An Introduction to Asynchronous Programming in Python](https://medium.com/@KonopkaKodes/an-introduction-to-asynchronous-programming-in-python-6809a4385f69)
 * [Python language bindings for Selenium WebDriver.](https://www.selenium.dev/selenium/docs/api/py/index.html)
+* [10 Ways to Convert Lists to Dictionaries in Python](https://medium.com/better-programming/10-ways-to-convert-lists-to-dictionaries-in-python-d2c728d2aeb8)
