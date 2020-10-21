@@ -43,6 +43,7 @@
 * [AutoML topics](https://www.automl.org/automl/auto-sklearn/)
 * [TPOT is a Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming.](http://epistasislab.github.io/tpot/)
 * [Featuretools is a framework to perform automated feature engineering.](https://featuretools.alteryx.com/en/stable/index.html)
+* [Regression with PyCaret: A better machine learning library](https://towardsdatascience.com/regression-with-pycaret-a-better-machine-learning-library-e02762a0615c)
 
 # OCR topics
 * [Open Source Computer Vision Library](https://opencv.org/about/)
