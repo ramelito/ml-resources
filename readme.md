@@ -44,6 +44,8 @@
 * [TPOT is a Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming.](http://epistasislab.github.io/tpot/)
 * [Featuretools is a framework to perform automated feature engineering.](https://featuretools.alteryx.com/en/stable/index.html)
 * [Regression with PyCaret: A better machine learning library](https://towardsdatascience.com/regression-with-pycaret-a-better-machine-learning-library-e02762a0615c)
+* [5 Don’t and 5 Do for Data Scientist](https://towardsdatascience.com/5-dont-and-5-do-for-data-scientist-9545953d8b50)
+* [Automating Data Science with dabl](https://medium.com/towards-artificial-intelligence/automating-data-science-with-dabl-76acb7344727)
 
 # OCR topics
 * [Open Source Computer Vision Library](https://opencv.org/about/)
@@ -118,3 +120,4 @@
 * [An Introduction to Asynchronous Programming in Python](https://medium.com/@KonopkaKodes/an-introduction-to-asynchronous-programming-in-python-6809a4385f69)
 * [Python language bindings for Selenium WebDriver.](https://www.selenium.dev/selenium/docs/api/py/index.html)
 * [10 Ways to Convert Lists to Dictionaries in Python](https://medium.com/better-programming/10-ways-to-convert-lists-to-dictionaries-in-python-d2c728d2aeb8)
+* [Exploring Python Decorators: Part I](https://medium.com/@srinaveendesu/exploring-python-decorators-part-i-e0165b426dda)
