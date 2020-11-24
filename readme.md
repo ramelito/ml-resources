@@ -11,6 +11,8 @@
 * [A Keras-Based Autoencoder for Anomaly Detection in Sequences](https://towardsdatascience.com/a-keras-based-autoencoder-for-anomaly-detection-in-sequences-75337eaed0e5)
 * [Timeseries anomaly detection using an Autoencoder](https://keras.io/examples/timeseries/timeseries_anomaly_detection/)
 * [Step-by-step understanding LSTM Autoencoder layers](https://towardsdatascience.com/step-by-step-understanding-lstm-autoencoder-layers-ffab055b6352)
+* [Introduction to 1D Convolutional Neural Networks in Keras for Time Sequences](https://blog.goodaudience.com/introduction-to-1d-convolutional-neural-networks-in-keras-for-time-sequences-3a7ff801a2cf)
+* [Introduction to Anomaly Detection Using PyCarat](https://medium.com/analytics-vidhya/introduction-to-anomaly-detection-using-pycarat-519a13be24c5)
 
 # AI topics
 * [Keras API reference / Utilities](https://keras.io/api/utils/)
@@ -65,6 +67,7 @@
 * [GloVe: Global Vectors for Word Representation](https://nlp.stanford.edu/projects/glove/)
 * [rusvectores.org](https://rusvectores.org/en/models/)
 * [State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.](https://huggingface.co/transformers/index.html)
+* [Facebook PyText is an Open Source Framework for Rapid NLP Experimentation](https://medium.com/dataseries/facebook-pytext-is-an-open-source-framework-for-rapid-nlp-experimentation-eba67fa61858)
 
 # Data Science topics
 * [Five Cool Python Libraries for Data Science](https://medium.com/towards-artificial-intelligence/five-cool-python-libraries-for-data-science-7f1fce402b90)
@@ -105,6 +108,8 @@
 * [A guide to DataFrame manipulation using groupby, melt, pivot tables, pivot, transpose, and stack.](https://hackingandslacking.com/reshaping-pandas-dataframes-6aceb55c8c27)
 * [Pandas and Multiprocessing: How to create dataframes in a parallel way](https://medium.com/python-in-plain-english/pandas-and-multiprocessing-how-to-create-dataframes-in-a-parallel-way-72f9b18ea72f)
 * [From Pandas-wan to Pandas-master](https://medium.com/unit8-machine-learning-publication/from-pandas-wan-to-pandas-master-4860cf0ce442)
+* [10 Pandas Tricks to Make My Data Analyzing Process More Efficient: Part 1](https://towardsdatascience.com/10-pandas-tricks-to-make-my-data-analyzing-process-more-efficient-part-1-78a0cc1636f3)
+* [10 Pandas Tricks to Make My Data Analyzing Process More Efficient: Part 2](https://towardsdatascience.com/10-pandas-tricks-to-make-my-data-analyzing-process-more-efficient-part-2-b72ea43a0bb5)
 
 # Python tricks and libraries
 * [How To Replace Your Python For Loops with Map, Filter, and Reduce](https://medium.com/better-programming/how-to-replace-your-python-for-loops-with-map-filter-and-reduce-c1b5fa96f43a)
@@ -121,3 +126,7 @@
 * [Python language bindings for Selenium WebDriver.](https://www.selenium.dev/selenium/docs/api/py/index.html)
 * [10 Ways to Convert Lists to Dictionaries in Python](https://medium.com/better-programming/10-ways-to-convert-lists-to-dictionaries-in-python-d2c728d2aeb8)
 * [Exploring Python Decorators: Part I](https://medium.com/@srinaveendesu/exploring-python-decorators-part-i-e0165b426dda)
+* [All the Pandas shift() you should know for data analysis](https://towardsdatascience.com/all-the-pandas-shift-you-should-know-for-data-analysis-791c1692b5e)
+* [Cross-Validating Prophet at Scale](https://medium.com/dropout-analytics/cross-validating-prophet-at-scale-72b1a21b6433)
+* [Tutorial on Python Logging](https://levelup.gitconnected.com/tutorial-on-python-logging-ac5f21e0a00)
+* [8 Levels of Using List Comprehension in Python](https://medium.com/techtofreedom/8-levels-of-using-list-comprehension-in-python-efc3c339a1f0)
