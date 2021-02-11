@@ -84,7 +84,7 @@
 * [Data Scientists: Your Variable Names Are Awful. Here’s How to Fix Them.](https://towardsdatascience.com/data-scientists-your-variable-names-are-awful-heres-how-to-fix-them-89053d2855be)
 * [15 common coding mistakes data scientist make in Python (and how to fix them)](https://towardsdatascience.com/15-common-coding-mistakes-data-scientist-make-in-python-and-how-to-fix-them-7760467498af)
 * [16 Interview Questions That Test Your Machine Learning Skills (Part-1)](https://medium.com/towards-artificial-intelligence/16-interview-questions-that-test-your-machine-learning-skills-part-1-52cd58b64fbb)
-* [16 Interview Questions That Test Your Machine Learning Skills (Part-2)]https://medium.com/towards-artificial-intelligence/16-interview-questions-that-test-your-machine-learning-skills-part-2-386bf3ca0caf
+* [16 Interview Questions That Test Your Machine Learning Skills (Part-2)](https://medium.com/towards-artificial-intelligence/16-interview-questions-that-test-your-machine-learning-skills-part-2-386bf3ca0caf)
 * [Build Foundation for Time Series Forecasting](https://towardsdatascience.com/time-series-forecasting-968192b3781a)
 
 # Visualization topics
