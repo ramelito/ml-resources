@@ -13,11 +13,16 @@
 * [Step-by-step understanding LSTM Autoencoder layers](https://towardsdatascience.com/step-by-step-understanding-lstm-autoencoder-layers-ffab055b6352)
 * [Introduction to 1D Convolutional Neural Networks in Keras for Time Sequences](https://blog.goodaudience.com/introduction-to-1d-convolutional-neural-networks-in-keras-for-time-sequences-3a7ff801a2cf)
 * [Introduction to Anomaly Detection Using PyCarat](https://medium.com/analytics-vidhya/introduction-to-anomaly-detection-using-pycarat-519a13be24c5)
+* [Anomaly Detection Techniques: Part 1](https://medium.com/swlh/anomaly-detection-techniques-part-1-962b0494f9cf)
+* [Best clustering algorithms for anomaly detection](https://towardsdatascience.com/best-clustering-algorithms-for-anomaly-detection-d5b7412537c8)
 
 # AI topics
 * [Keras API reference / Utilities](https://keras.io/api/utils/)
 * [A Gentle Introduction to LSTM Autoencoders](https://machinelearningmastery.com/lstm-autoencoders/)
 * [Get Started with Using CNN+LSTM for Forecasting](https://towardsdatascience.com/get-started-with-using-cnn-lstm-for-forecasting-6f0f4dde5826)
+* [Various Optimization Algorithms For Training Neural Network](https://towardsdatascience.com/optimizers-for-training-neural-network-59450d71caf6)
+* [What is a Transformer?](https://medium.com/inside-machine-learning/what-is-a-transformer-d07dd1fbec04)
+* [Attention in Deep Networks with Keras](https://towardsdatascience.com/light-on-math-ml-attention-with-keras-dc8dbc1fad39)
 
 # ML topics
 * [Kaggle Datasets](https://www.kaggle.com/datasets)
@@ -48,6 +53,7 @@
 * [Regression with PyCaret: A better machine learning library](https://towardsdatascience.com/regression-with-pycaret-a-better-machine-learning-library-e02762a0615c)
 * [5 Don’t and 5 Do for Data Scientist](https://towardsdatascience.com/5-dont-and-5-do-for-data-scientist-9545953d8b50)
 * [Automating Data Science with dabl](https://medium.com/towards-artificial-intelligence/automating-data-science-with-dabl-76acb7344727)
+* [Modern Recommender Systems](https://towardsdatascience.com/modern-recommender-systems-a0c727609aa8)
 
 # OCR topics
 * [Open Source Computer Vision Library](https://opencv.org/about/)
@@ -68,12 +74,18 @@
 * [rusvectores.org](https://rusvectores.org/en/models/)
 * [State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.](https://huggingface.co/transformers/index.html)
 * [Facebook PyText is an Open Source Framework for Rapid NLP Experimentation](https://medium.com/dataseries/facebook-pytext-is-an-open-source-framework-for-rapid-nlp-experimentation-eba67fa61858)
+* [Topic Modeling with NMF in Python](https://medium.com/towards-artificial-intelligence/topic-modelling-with-nmf-in-python-194eb6ae04a5)
 
 # Data Science topics
 * [Five Cool Python Libraries for Data Science](https://medium.com/towards-artificial-intelligence/five-cool-python-libraries-for-data-science-7f1fce402b90)
 * [Your Ultimate Data Mining & Machine Learning Cheat Sheet](https://medium.com/analytics-vidhya/your-ultimate-data-mining-machine-learning-cheat-sheet-9fce3fa16)
 * [Your Ultimate Data Manipulation & Cleaning Cheat Sheet](https://medium.com/analytics-vidhya/your-ultimate-data-manipulation-cleaning-cheat-sheet-731f3b14a0be)
 * [Building an Interactive Dashboard in Fewer Than 50 Lines of Code](https://medium.com/nightingale/building-an-interactive-dashboard-in-less-than-50-lines-of-code-494b30a31905)
+* [Data Scientists: Your Variable Names Are Awful. Here’s How to Fix Them.](https://towardsdatascience.com/data-scientists-your-variable-names-are-awful-heres-how-to-fix-them-89053d2855be)
+* [15 common coding mistakes data scientist make in Python (and how to fix them)](https://towardsdatascience.com/15-common-coding-mistakes-data-scientist-make-in-python-and-how-to-fix-them-7760467498af)
+* [16 Interview Questions That Test Your Machine Learning Skills (Part-1)](https://medium.com/towards-artificial-intelligence/16-interview-questions-that-test-your-machine-learning-skills-part-1-52cd58b64fbb)
+* [16 Interview Questions That Test Your Machine Learning Skills (Part-2)]https://medium.com/towards-artificial-intelligence/16-interview-questions-that-test-your-machine-learning-skills-part-2-386bf3ca0caf
+* [Build Foundation for Time Series Forecasting](https://towardsdatascience.com/time-series-forecasting-968192b3781a)
 
 # Visualization topics
 * [Yellowbrick: ML Visualization](https://www.scikit-yb.org/en/latest/index.html)
@@ -130,3 +142,4 @@
 * [Cross-Validating Prophet at Scale](https://medium.com/dropout-analytics/cross-validating-prophet-at-scale-72b1a21b6433)
 * [Tutorial on Python Logging](https://levelup.gitconnected.com/tutorial-on-python-logging-ac5f21e0a00)
 * [8 Levels of Using List Comprehension in Python](https://medium.com/techtofreedom/8-levels-of-using-list-comprehension-in-python-efc3c339a1f0)
+* [Top 4 Python Libraries for Interpreted Machine Learning](https://medium.com/python-in-plain-english/top-4-python-libraries-for-interpreted-machine-learning-da1f431ad813)
