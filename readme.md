@@ -54,6 +54,7 @@
 * [5 Don’t and 5 Do for Data Scientist](https://towardsdatascience.com/5-dont-and-5-do-for-data-scientist-9545953d8b50)
 * [Automating Data Science with dabl](https://medium.com/towards-artificial-intelligence/automating-data-science-with-dabl-76acb7344727)
 * [Modern Recommender Systems](https://towardsdatascience.com/modern-recommender-systems-a0c727609aa8)
+* [Unsupervised Machine Learning Models for Outlier Detection](https://natedong72.medium.com/unsupervised-machine-learning-models-for-outlier-detection-e0767f684487)
 
 # OCR topics
 * [Open Source Computer Vision Library](https://opencv.org/about/)
@@ -75,6 +76,7 @@
 * [State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.](https://huggingface.co/transformers/index.html)
 * [Facebook PyText is an Open Source Framework for Rapid NLP Experimentation](https://medium.com/dataseries/facebook-pytext-is-an-open-source-framework-for-rapid-nlp-experimentation-eba67fa61858)
 * [Topic Modeling with NMF in Python](https://medium.com/towards-artificial-intelligence/topic-modelling-with-nmf-in-python-194eb6ae04a5)
+* [How to cluster similar sentences using TF-IDF and Graph partitioning in Python](https://towardsdatascience.com/how-to-cluster-similar-sentences-using-tf-idf-and-graph-partitioning-in-python-5fb70627a4e0)
 
 # Data Science topics
 * [Five Cool Python Libraries for Data Science](https://medium.com/towards-artificial-intelligence/five-cool-python-libraries-for-data-science-7f1fce402b90)
@@ -86,6 +88,7 @@
 * [16 Interview Questions That Test Your Machine Learning Skills (Part-1)](https://medium.com/towards-artificial-intelligence/16-interview-questions-that-test-your-machine-learning-skills-part-1-52cd58b64fbb)
 * [16 Interview Questions That Test Your Machine Learning Skills (Part-2)](https://medium.com/towards-artificial-intelligence/16-interview-questions-that-test-your-machine-learning-skills-part-2-386bf3ca0caf)
 * [Build Foundation for Time Series Forecasting](https://towardsdatascience.com/time-series-forecasting-968192b3781a)
+* [10 Useful Jupyter Notebook Extensions for a Data Scientist](https://towardsdatascience.com/10-useful-jupyter-notebook-extensions-for-a-data-scientist-bd4cb472c25e)
 
 # Visualization topics
 * [Yellowbrick: ML Visualization](https://www.scikit-yb.org/en/latest/index.html)
