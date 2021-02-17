@@ -15,6 +15,7 @@
 * [Introduction to Anomaly Detection Using PyCarat](https://medium.com/analytics-vidhya/introduction-to-anomaly-detection-using-pycarat-519a13be24c5)
 * [Anomaly Detection Techniques: Part 1](https://medium.com/swlh/anomaly-detection-techniques-part-1-962b0494f9cf)
 * [Best clustering algorithms for anomaly detection](https://towardsdatascience.com/best-clustering-algorithms-for-anomaly-detection-d5b7412537c8)
+* [Fraud detection — Unsupervised Anomaly Detection](https://medium.com/spero-engineering/fraud-detection-unsupervised-anomaly-detection-1fedc2b345b1)
 
 # AI topics
 * [Keras API reference / Utilities](https://keras.io/api/utils/)
@@ -23,6 +24,7 @@
 * [Various Optimization Algorithms For Training Neural Network](https://towardsdatascience.com/optimizers-for-training-neural-network-59450d71caf6)
 * [What is a Transformer?](https://medium.com/inside-machine-learning/what-is-a-transformer-d07dd1fbec04)
 * [Attention in Deep Networks with Keras](https://towardsdatascience.com/light-on-math-ml-attention-with-keras-dc8dbc1fad39)
+* [Transformers for Time-Series](https://sarafparam.medium.com/transformers-for-time-series-cc898c447034)
 
 # ML topics
 * [Kaggle Datasets](https://www.kaggle.com/datasets)
@@ -55,6 +57,7 @@
 * [Automating Data Science with dabl](https://medium.com/towards-artificial-intelligence/automating-data-science-with-dabl-76acb7344727)
 * [Modern Recommender Systems](https://towardsdatascience.com/modern-recommender-systems-a0c727609aa8)
 * [Unsupervised Machine Learning Models for Outlier Detection](https://natedong72.medium.com/unsupervised-machine-learning-models-for-outlier-detection-e0767f684487)
+* [4 Python AutoML Libraries Every Data Scientist Should Know](https://towardsdatascience.com/4-python-automl-libraries-every-data-scientist-should-know-680ff5d6ad08)
 
 # OCR topics
 * [Open Source Computer Vision Library](https://opencv.org/about/)
@@ -77,6 +80,7 @@
 * [Facebook PyText is an Open Source Framework for Rapid NLP Experimentation](https://medium.com/dataseries/facebook-pytext-is-an-open-source-framework-for-rapid-nlp-experimentation-eba67fa61858)
 * [Topic Modeling with NMF in Python](https://medium.com/towards-artificial-intelligence/topic-modelling-with-nmf-in-python-194eb6ae04a5)
 * [How to cluster similar sentences using TF-IDF and Graph partitioning in Python](https://towardsdatascience.com/how-to-cluster-similar-sentences-using-tf-idf-and-graph-partitioning-in-python-5fb70627a4e0)
+* [Mining an economic news article using pre-trained language models](https://towardsdatascience.com/mining-an-economic-news-article-using-pre-trained-language-models-f75af041ecf0)
 
 # Data Science topics
 * [Five Cool Python Libraries for Data Science](https://medium.com/towards-artificial-intelligence/five-cool-python-libraries-for-data-science-7f1fce402b90)
